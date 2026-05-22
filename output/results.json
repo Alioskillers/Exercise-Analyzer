@@ -1,0 +1,84 @@
+{
+  "video_id": "a8540dc1-3f03-4b6d-800c-fd473349e9d9",
+  "mode": "batch",
+  "video_runs": [
+    {
+      "video": "C:\\Users\\omarg\\Desktop\\exercise_analyzer\\incorrect-pushups.mp4",
+      "outputs": {
+        "squats_video": "output\\result_squats_incorrect-pushups_squats.mp4",
+        "pushups_video": "output\\result_pushup_incorrect-pushups_pushups.mp4"
+      },
+      "summary": {
+        "squats": {
+          "total_reps": 0,
+          "good_form_reps": 0
+        },
+        "pushups": {
+          "total_reps": 5,
+          "good_form_reps": 1
+        }
+      }
+    },
+    {
+      "video": "C:\\Users\\omarg\\Desktop\\exercise_analyzer\\incorrect-squats.mp4",
+      "outputs": {
+        "squats_video": "output\\result_squats_incorrect-squats_squats.mp4",
+        "pushups_video": "output\\result_pushup_incorrect-squats_pushups.mp4"
+      },
+      "summary": {
+        "squats": {
+          "total_reps": 6,
+          "good_form_reps": 4
+        },
+        "pushups": {
+          "total_reps": 0,
+          "good_form_reps": 0
+        }
+      }
+    },
+    {
+      "video": "C:\\Users\\omarg\\Desktop\\exercise_analyzer\\push-ups.mp4",
+      "outputs": {
+        "squats_video": "output\\result_squats_push-ups_squats.mp4",
+        "pushups_video": "output\\result_pushup_push-ups_pushups.mp4"
+      },
+      "summary": {
+        "squats": {
+          "total_reps": 0,
+          "good_form_reps": 0
+        },
+        "pushups": {
+          "total_reps": 4,
+          "good_form_reps": 4
+        }
+      }
+    },
+    {
+      "video": "C:\\Users\\omarg\\Desktop\\exercise_analyzer\\squats.mp4",
+      "outputs": {
+        "squats_video": "output\\result_squats_squats_squats.mp4",
+        "pushups_video": "output\\result_pushup_squats_pushups.mp4"
+      },
+      "summary": {
+        "squats": {
+          "total_reps": 3,
+          "good_form_reps": 3
+        },
+        "pushups": {
+          "total_reps": 0,
+          "good_form_reps": 0
+        }
+      }
+    }
+  ],
+  "summary": {
+    "squats": {
+      "total_reps": 9,
+      "good_form_reps": 7
+    },
+    "pushups": {
+      "total_reps": 9,
+      "good_form_reps": 5
+    }
+  }
+}
